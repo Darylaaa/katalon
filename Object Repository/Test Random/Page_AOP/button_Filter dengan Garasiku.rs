@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Filter dengan Garasiku</name>
+   <tag></tag>
+   <elementGuidId>093d9220-45f9-4c92-a0fe-a590aa4b0ec5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.sc-1nihjkh-2.llIXQU.sc-15itbtn-14.hQzFyE</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1dc1d926-4760-4ea5-b1d1-5510a74be718</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-1nihjkh-2 llIXQU sc-15itbtn-14 hQzFyE</value>
+      <webElementGuid>ca2c40d5-0b2b-44b1-add3-9d9421f5cfff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>40</value>
+      <webElementGuid>a4a7d0db-1a17-455f-ab8a-462a1d527ec0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b17cf383-6dae-4af9-a084-6a2456bb7ff8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Filter dengan Garasiku</value>
+      <webElementGuid>70f73be1-c0ac-4d2f-823e-9e09e16ac8c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[1]/div[@class=&quot;sc-9oqgzk-0 cmGYbp&quot;]/section[@class=&quot;sc-9oqgzk-1 jJgBno&quot;]/div[@class=&quot;sc-15itbtn-10 bCdbYY&quot;]/div[@class=&quot;sc-1crxk01-0 dQqGSu&quot;]/button[@class=&quot;sc-1nihjkh-2 llIXQU sc-15itbtn-14 hQzFyE&quot;]</value>
+      <webElementGuid>16863729-2754-4343-a0c7-ca1bd4de4408</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>7cf606fe-57de-4625-997a-12988a8ab338</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='app']/div/div/section/div/div[7]/button[2]</value>
+      <webElementGuid>9c311294-89fe-4a05-b4b8-126b75a9644d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[1]/following::button[1]</value>
+      <webElementGuid>4e2557b9-3155-4bce-ac26-257239828c50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BeAT Karburator KVY, 110 cc'])[1]/following::button[2]</value>
+      <webElementGuid>4efeedac-e1d1-48c1-bca7-b19e8e901d00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter'])[1]/preceding::button[1]</value>
+      <webElementGuid>9f6bb7ad-13e5-4600-bef8-b885b22ff9e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih kebutuhan Suku Cadangmu'])[1]/preceding::button[4]</value>
+      <webElementGuid>eaf69ba2-3ded-4620-905e-57c3f2eaa3ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Filter dengan Garasiku']/parent::*</value>
+      <webElementGuid>34ec4d2a-1a4a-4308-b639-794ada932c6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>5b062e8c-bd41-46d6-b19a-3e69bd514321</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Filter dengan Garasiku' or . = 'Filter dengan Garasiku')]</value>
+      <webElementGuid>d701ac9e-d5fc-4f4a-b7cc-df73516a6afe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

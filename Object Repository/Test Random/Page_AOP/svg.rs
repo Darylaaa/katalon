@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>cb362c7c-511a-40f9-a193-4d7511159e89</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.sc-rq82e3-0.bwPgQp > svg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter Dengan Garasiku'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>462ba2a6-4085-45fa-b2e3-6a314fe53510</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>100%</value>
+      <webElementGuid>aa08e13c-087c-41b8-a95c-49f7b1c3d357</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>100%</value>
+      <webElementGuid>610c4cb0-7ba8-4a65-bf25-00e9887553ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 22 18</value>
+      <webElementGuid>70bf1e07-dc1c-4bc3-a8ae-7afd5b038595</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>7b10ee8c-f361-4648-af68-710564fb4b98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>269f30b6-197a-4f74-bf8c-f509033da017</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[1]/div[@class=&quot;sc-9oqgzk-0 cmGYbp&quot;]/section[@class=&quot;sc-9oqgzk-1 jJgBno&quot;]/div[@class=&quot;sc-1crxk01-0 jvsDEJ sc-v5qix1-0 cAWHGh&quot;]/div[@class=&quot;sc-1crxk01-0 imebcy&quot;]/div[@class=&quot;sc-1crxk01-0 imebcy sc-v5qix1-2 joQYZO&quot;]/span[@class=&quot;sc-rq82e3-0 bwPgQp&quot;]/svg[1]</value>
+      <webElementGuid>a693025d-3480-4d9b-b367-8f916adcfcc0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter Dengan Garasiku'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>5fbc8978-fe9a-4421-b669-d1edd9bc7b7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih kebutuhan Suku Cadangmu'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>b1c631b7-c16a-4f0d-b747-d9a1da19b969</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Kategori'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>dd4866c5-d868-4e2f-9128-e65249fd3f74</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

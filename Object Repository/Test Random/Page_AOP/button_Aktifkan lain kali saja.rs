@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Aktifkan lain kali saja</name>
+   <tag></tag>
+   <elementGuidId>94ab6218-181c-4437-9839-cf881f8851b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.sc-1nihjkh-2.llIXQU.sc-18w5455-4.sc-18w5455-7.ctwEsZ</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>416217b3-3de0-48ea-a9b2-1a1a6b2f3473</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-1nihjkh-2 llIXQU sc-18w5455-4 sc-18w5455-7 ctwEsZ</value>
+      <webElementGuid>07328b34-bdcb-429c-81d6-fc07f0893d0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>40</value>
+      <webElementGuid>c742b4f2-b9b3-4076-b43f-ec8cc92ad281</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7ec07165-012f-4439-b7f2-4b3078c3800b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Aktifkan lain kali saja</value>
+      <webElementGuid>9e67ff66-903d-42a7-ad6d-40b0b80d6edf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[1]/div[@class=&quot;sc-1dze5zo-0 lnpKeT&quot;]/section[@class=&quot;sc-1dze5zo-1 imPRYC&quot;]/div[@class=&quot;sc-1crxk01-0 imebcy sc-18w5455-0 idCTjf&quot;]/div[@class=&quot;sc-1crxk01-0 evqbmV&quot;]/div[@class=&quot;sc-1crxk01-0 QOIBu&quot;]/button[@class=&quot;sc-1nihjkh-2 llIXQU sc-18w5455-4 sc-18w5455-7 ctwEsZ&quot;]</value>
+      <webElementGuid>f7eddd5a-3845-4a0f-88fe-832bd9cf84d2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>987be0f5-4ca2-4fe4-8baa-4fa5cd4b15f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='app']/div/div/section/div/div[2]/div/button[3]</value>
+      <webElementGuid>be60e696-b8b8-44da-bc32-98b6072302ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat Lainnya'])[1]/following::button[1]</value>
+      <webElementGuid>5a348a22-1ddb-4f6d-a0e9-777d2852bca8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dekat Saya'])[1]/following::button[2]</value>
+      <webElementGuid>5c5e8869-d702-4797-815a-5875903f7959</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Suku Cadang'])[1]/preceding::button[6]</value>
+      <webElementGuid>8ba3708a-cca9-4497-b553-ee1642741491</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Layanan Bengkel'])[1]/preceding::button[6]</value>
+      <webElementGuid>df76f23c-70ad-4bf3-a9a0-ce3689dd53c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Aktifkan lain kali saja']/parent::*</value>
+      <webElementGuid>ea287eb8-8af3-49ae-b7d8-0c8d12ddc893</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]</value>
+      <webElementGuid>1cded26a-f2b1-4ec6-bfd2-3ea648e25ac0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Aktifkan lain kali saja' or . = 'Aktifkan lain kali saja')]</value>
+      <webElementGuid>3641a090-b00e-4504-8b3a-e7281131d74e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

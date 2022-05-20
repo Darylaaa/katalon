@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Filter Dengan Garasiku</name>
+   <tag></tag>
+   <elementGuidId>95e27c51-07f9-439a-a45c-1e5e0f7c2307</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.sc-5o48du-0.fAnpsY.sc-v5qix1-3.ettyZO</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='app']/div/div/section/div[2]/div/div/button[2]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>2a6aa40c-950b-487a-9e3d-d8e60add53a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-5o48du-0 fAnpsY sc-v5qix1-3 ettyZO</value>
+      <webElementGuid>795e0cc3-2cda-41d6-b571-71d5d2ec28f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Filter Dengan Garasiku</value>
+      <webElementGuid>a4bfc137-254b-4cac-bd23-bc33caeb8874</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[1]/div[@class=&quot;sc-9oqgzk-0 cmGYbp&quot;]/section[@class=&quot;sc-9oqgzk-1 jJgBno&quot;]/div[@class=&quot;sc-1crxk01-0 jvsDEJ sc-v5qix1-0 cAWHGh&quot;]/div[@class=&quot;sc-1crxk01-0 imebcy&quot;]/div[@class=&quot;sc-1crxk01-0 ydrWE sc-v5qix1-1 fItNkh&quot;]/button[@class=&quot;sc-1nihjkh-2 czSgMZ sc-v5qix1-4 hizpLI&quot;]/label[@class=&quot;sc-5o48du-0 fAnpsY sc-v5qix1-3 ettyZO&quot;]</value>
+      <webElementGuid>a97eb4d5-9958-4940-a311-7939729be273</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='app']/div/div/section/div[2]/div/div/button[2]/label</value>
+      <webElementGuid>2a3999aa-fcaf-48bd-903d-ad6a1e5b4b1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter dengan Garasiku'])[1]/following::label[1]</value>
+      <webElementGuid>314e06a0-58b7-4c54-b45d-d4e123e3900a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Filter Dengan Garasiku']/parent::*</value>
+      <webElementGuid>655235de-6db3-4fac-9242-706eaca97a6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>f34d3eb5-8620-4bb2-ac95-2e032ae04a01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Filter Dengan Garasiku' or . = 'Filter Dengan Garasiku')]</value>
+      <webElementGuid>2a3e5f80-7393-498b-b40e-6ba8b1f8cde4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

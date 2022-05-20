@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>1c0037eb-e1b2-40fa-b6aa-3da6a187164e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#nav-item-3 > span.sc-rq82e3-0.mzbNL > svg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='All rights reserved.'])[1]/following::*[name()='svg'][4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>aa63c2f1-2da2-4246-ac38-fadaf2ed5dd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>48</value>
+      <webElementGuid>7815dfcc-df05-410f-9e29-f3ceb43a6bc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>34</value>
+      <webElementGuid>f8110ee6-d5c1-4e5f-a115-8c518ab33728</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 48 34</value>
+      <webElementGuid>d200ca2e-5bbb-45c7-ad12-8239712e1642</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>53aaa9da-6ecd-4b1c-bb0d-4e1a92dd5c8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>af0f6379-2b34-4c98-9c2c-20dfabd1f4d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-item-3&quot;)/span[@class=&quot;sc-rq82e3-0 mzbNL&quot;]/svg[1]</value>
+      <webElementGuid>fe4cc927-9bde-4f0b-9eb7-45a24a8554f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All rights reserved.'])[1]/following::*[name()='svg'][4]</value>
+      <webElementGuid>7168fad5-e31e-498a-a2a0-a10790bda53a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kunjungi Website Astra Otoparts'])[1]/following::*[name()='svg'][5]</value>
+      <webElementGuid>c19a2f18-e651-465d-84a6-01a7bb1cb31c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'nav-item-3', '&quot;', ')/span[@class=', '&quot;', 'sc-rq82e3-0 mzbNL', '&quot;', ']/svg[1]')])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>5d0588bc-4385-4749-b087-0df54cab5cf2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

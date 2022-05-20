@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>6cb655ac-c14c-4cfe-b5fe-0df878a13d60</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>path</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>6d0796aa-47e5-4677-8fd1-299800b2c8c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M8.92711 0.382241C9.29295 0.0744093 9.8689 0.0744093 10.2347 0.382241C10.5882 0.679673 10.5882 1.1747 10.2347 1.47144L3.60431 7.05054H22.188C22.698 7.05054 23.1166 7.39165 23.1166 7.82081C23.1166 8.24997 22.698 8.60217 22.188 8.60217H3.60431L10.2347 14.1709C10.5882 14.4787 10.5882 14.9744 10.2347 15.2712C9.8689 15.579 9.29295 15.579 8.92711 15.2712L0.727024 8.3713C0.373544 8.07387 0.373544 7.57884 0.727024 7.2821L8.92711 0.382241Z</value>
+      <webElementGuid>22bc6111-9acc-4051-8699-f402aaccb863</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>white</value>
+      <webElementGuid>56f123e9-3e2e-4939-aa9f-1dc7ee8a8820</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[1]/div[@class=&quot;sc-9oqgzk-0 cmGYbp&quot;]/section[@class=&quot;sc-9oqgzk-1 jJgBno&quot;]/div[@class=&quot;sc-15itbtn-10 bCdbYY&quot;]/div[@class=&quot;sc-1crxk01-0 gwXhsA&quot;]/span[@class=&quot;sc-rq82e3-0 mzbNL&quot;]/svg[1]/path[1]</value>
+      <webElementGuid>48450f6f-837c-4cfc-86d0-836f53e7f9a8</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Lihat Kategori</name>
+   <tag></tag>
+   <elementGuidId>904bfc97-a564-4a8d-9230-ac753bcf72d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.sc-w647qe-0.gyskmI</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='app']/div/div/section/div[3]/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9d752841-bb1d-4bca-a175-4950ba819527</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>font-size</name>
+      <type>Main</type>
+      <value>12</value>
+      <webElementGuid>148a4cce-8c04-40c1-83b6-3f8dfbcc4f19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>font-weight</name>
+      <type>Main</type>
+      <value>bold</value>
+      <webElementGuid>2e709e7e-a9ba-4aed-b05f-74efa43752bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-w647qe-0 gyskmI</value>
+      <webElementGuid>c084c465-e3d0-4198-89bf-1628d1cc0089</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lihat Kategori</value>
+      <webElementGuid>f9d92bfd-c299-46e4-8066-08b4b994f738</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[1]/div[@class=&quot;sc-9oqgzk-0 cmGYbp&quot;]/section[@class=&quot;sc-9oqgzk-1 jJgBno&quot;]/div[@class=&quot;sc-1crxk01-0 lkwwJy&quot;]/div[@class=&quot;sc-1crxk01-0 jkvoMP&quot;]/div[@class=&quot;sc-1crxk01-0 iEyndt sc-sn6pye-0 kPuqSx&quot;]/span[@class=&quot;sc-w647qe-0 gyskmI&quot;]</value>
+      <webElementGuid>2888af43-12e8-4b97-a068-edb3603135ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='app']/div/div/section/div[3]/div/div/span</value>
+      <webElementGuid>69ebc821-61be-48ac-9dc1-49035418317d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih kebutuhan Kategori1mu'])[1]/following::span[1]</value>
+      <webElementGuid>c3517c32-7f34-4fb3-bc06-fb5e96bd9f95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter Dengan Garasiku'])[1]/following::span[3]</value>
+      <webElementGuid>65a5f952-76ef-4c2e-8fc3-d4e31c93d25b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Produk yang dicari tidak ditemukan'])[1]/preceding::span[1]</value>
+      <webElementGuid>752ca6b8-5de2-4111-81c1-5dc1ac13d0a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Silahkan ubah filter pencarian Anda'])[1]/preceding::span[1]</value>
+      <webElementGuid>6b8f682c-91e4-4cab-accb-d924fb0f3b78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lihat Kategori']/parent::*</value>
+      <webElementGuid>804566d1-bfc7-4b7c-8d89-e665ca3dcb2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/span</value>
+      <webElementGuid>64c07288-5ec8-4d2f-ab40-3ce936b6b8e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Lihat Kategori' or . = 'Lihat Kategori')]</value>
+      <webElementGuid>9e7eb807-10b2-4812-998e-deddcf365fcb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
